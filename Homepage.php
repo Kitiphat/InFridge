@@ -1,5 +1,5 @@
 <?php 
-//เริ่มการทำงานของ php 
+
     session_start();
 
     require_once "config/db.php";
